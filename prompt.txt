@@ -1,0 +1,21 @@
+Scientific research paper:
+{document]
+You are an expert in analyzing scientific research papers. Please carefully read
+Extract these six (6) properties from the research paper:
+- Paper Title: The full title of the research paper
+- Publication Year: The year the paper was published
+- Authors: The full names of all authors of the paper
+- Author Contact: A list of dictionaries, where each dictionary contains the fol
+  - Name: The full name of the author
+  -Institution: The institutional affiliation of the author
+  -Email: The email address of the author (if provided)
+  -Abstract: The full text of the paper's abstract
+Summary Abstract: A concise summary of the abstract in 2-3 sentences, highligh
+Guidelines:
+-The extracted information should be factual and accurate to the document.
+-Be extremely concise, except for the Abstract which should be copied in full.
+-The extracted entities should be self-contained and easily understood without
+-If any property is missing from thee paper, please leave the field empty rather
+-For the Summary Abstract, focus on the main objectives, methods, and key findi
+-Author Contact, Contact. create an entry for each author, even if some information
+-Answer in JSON format. The JSON should contain 6 keys: "PaperTitle", "Publication"
