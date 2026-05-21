@@ -1,0 +1,17 @@
+%%bash
+  
+pip-qqq install pdfminer.six
+pip -qqq install pillow-heif==0.3.2
+pip-qqq install matplotlib
+pip-qqq install unstructured-inference
+pip-qqq install unstructured-pytesseract
+pip-qqq install tesseract-ocr
+pip-qqq install unstructured
+pip-qqq install openai
+pip-qqq install PyPDF2
+
+apt install -V tesseract-ocr
+apt install -V libtesseract-dev
+
+sudo apt-get update
+apt-get install -V poppler-utils
