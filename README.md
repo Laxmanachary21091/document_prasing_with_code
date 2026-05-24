@@ -10,6 +10,8 @@ documents.
 Large language models on the other end provide a more powerful, andflexible approach to handle many types of document structures and content
 types.
 
+
+
 project
 |
 |-Extract_Metadata_With_Large_Language_Models.ipynb
