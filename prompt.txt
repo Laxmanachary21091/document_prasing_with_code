@@ -1,5 +1,6 @@
 Scientific research paper:
 {document]
+
 You are an expert in analyzing scientific research papers. Please carefully read
 Extract these six (6) properties from the research paper:
 - Paper Title: The full title of the research paper
