@@ -1,6 +1,7 @@
 # document_prasing_with_code
 
 
+
 For many years, regular expressions have been my go-to tool for parsingdocuments, and I am sure it has been the same for many other technical
 folks and industries.
 
